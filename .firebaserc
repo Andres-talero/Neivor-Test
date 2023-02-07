@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "neivor-visit"
+  },
+  "rewrites": [
+    {
+      "source": "**",
+      "destination": "/index.html"
+    }
+  ]
+}
